@@ -1,4 +1,4 @@
 mountpoints:
   /:
-    url: https://content.da.live/seejanjoseph/eds-commerce/
+    url: https://github.com/seejanjoseph/eds-commerce/
     type: markup
